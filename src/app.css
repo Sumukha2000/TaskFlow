@@ -1,0 +1,10 @@
+.main-wrapper{
+    display: flex;
+    justify-content: space-around;    
+}
+.todo-wrapper, .inprogress-wrapper ,.done-wrapper{
+    text-align: center; 
+    background-color: #EBECF0;
+    width: 290px;
+    height: 300px;
+}
